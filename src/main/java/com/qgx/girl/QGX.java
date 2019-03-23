@@ -11,7 +11,7 @@ public class QGX {
 
     private String  name;
 
-    private List<String> idList;
+    private List<String>  idList;
 
     private List<GirlEntity> girlList;
 }
