@@ -9,7 +9,7 @@ public class QGX {
 
     private int age;
 
-    private String  name;
+    private String name;
 
     private List<String>  idList;
 
